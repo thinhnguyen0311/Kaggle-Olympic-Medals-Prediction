@@ -1,4 +1,4 @@
-# Kaggle - Olympic Medals Predictions
+# Kaggle - Olympic Medals Prediction
 
 This project is to predict how many medals a country will earn based on how many athletes it enters into the Olympics.
 
